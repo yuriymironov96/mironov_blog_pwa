@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Users/yury/.pyenv/versions/3.8.0/bin/python",
+  "python.linting.enabled": true,
+  "python.formatting.provider": "autopep8"
+}

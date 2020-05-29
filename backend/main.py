@@ -1,5 +1,8 @@
 from fastapi import FastAPI
 
+from apps.core.database import SessionLocal, engine, Base
+from apps.auth.models import Base
+
 app = FastAPI()
 
 

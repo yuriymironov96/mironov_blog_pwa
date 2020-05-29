@@ -6,4 +6,4 @@ Reworked version of personal blog powered by REST API and Angular PWA.
 
 `source .venv/bin/activate`
 
-`uvicorn main:app --reload`
+`uvicorn run:app --reload`
